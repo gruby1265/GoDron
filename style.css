@@ -101,6 +101,11 @@
     .sidenav a {font-size: 18px;}
   }
 
+  .mainLogo{
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
   .container{
       width: auto;
       display: flex;
